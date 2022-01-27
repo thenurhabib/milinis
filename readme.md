@@ -33,7 +33,7 @@
 ```
 <br>
 
-### For Android (Terux) Users
+### For Android (Termux) Users
 ```yaml
  pkg update
  pkg upgrade
