@@ -26,6 +26,7 @@
  sudo apt install git
  apt install python3
  pip3 install requests
+ pip3 install colorama
  git clone https://github.com/thenurhabib/milinis
  cd milinis
  python3 milinis.py
@@ -40,6 +41,7 @@
  pkg install git
  pkg install python3
  pip install requests
+ pip install colorama
  git clone https://github.com/thenurhabib/milinis
  cd milinis
  python milinis.py
